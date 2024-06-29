@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer">
       <span className="name">
         Inshorts clone made by -{" "}
-        <a href="https://www.linkedin.com/in/piyush-eon" target="__blank">
+        <a href="https://github.com/SohamMore100" target="__blank">
           Soham More
         </a>
       </span>
